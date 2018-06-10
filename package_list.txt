@@ -1,2 +1,2 @@
-Legacy pack,https://www.dropbox.com/s/8mb29b7pi7kqnax/Legacy%20pack.zip?raw=1,1.1,Known also as "NCF Megapack".,
-Chaos pack,https://www.dropbox.com/s/13xyi0n2a2usg9p/NCF_separated_403.zip?raw=1,1.0,Includes all currently released NCF creatures.,
+Legacy pack,https://www.dropbox.com/s/cr0cz4jpg5p07vp/Legacy%20pack%20v1.1.zip?raw=1,1.1,Known also as "NCF Megapack".,
+Chaos pack,https://www.dropbox.com/s/13xyi0n2a2usg9p/chaos%20pack%20v1.zip?raw=1,1.0,Includes all currently released NCF creatures.,
