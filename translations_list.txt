@@ -1,3 +1,3 @@
 ########## RC13 release ############
-English,2,RC13,https://raw.githubusercontent.com/dredknight/NCF_Utility__production/master/manual_translations/en_R13v1.pak,
+English,2,RC13,https://raw.githubusercontent.com/dredknight/NCF_Utility__production/master/manual_translations/en_rc13v2.pak,
 Russian,1,RC13,https://raw.githubusercontent.com/dredknight/NCF_Utility__production/master/manual_translations/ru_R13v1.pak,
